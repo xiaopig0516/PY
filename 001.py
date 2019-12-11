@@ -1,2 +1,2 @@
-print("你好!")
-print("你好123456!")
+import sys;
+print(sys.path)
